@@ -22,9 +22,6 @@ CLOUDINARY_API_SECRET=...
 
 NODE_ENV=development
 ```
-```frontend.js
-VITE_BACKEND_URL
-```
 
 ### Build the app
 
